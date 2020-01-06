@@ -14,7 +14,7 @@ The problems can solved by using 6 different algorithms: <br/>
 The solution of each problem is stored in a file<br/>
 The solution of pack of problem is stored in a CSV file for generating statistics<br/>
 
-Web Page: (https://lappapersefoni.github.io/knapsack)
+Web Page: (https://lappapersefoni.github.io/Knapsack-Problem-0-1/)
 ## Instructions:
 1. Download this repository
 2. Run the file Knapsack.exe
